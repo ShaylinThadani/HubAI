@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/HubAI/static/css/main.6df99a29.chunk.css",
-    "main.js": "/HubAI/static/js/main.eebb85b5.chunk.js",
-    "main.js.map": "/HubAI/static/js/main.eebb85b5.chunk.js.map",
+    "main.js": "/HubAI/static/js/main.68ea7c31.chunk.js",
+    "main.js.map": "/HubAI/static/js/main.68ea7c31.chunk.js.map",
     "runtime-main.js": "/HubAI/static/js/runtime-main.5b2e6c1d.js",
     "runtime-main.js.map": "/HubAI/static/js/runtime-main.5b2e6c1d.js.map",
     "static/js/2.08b0945d.chunk.js": "/HubAI/static/js/2.08b0945d.chunk.js",
     "static/js/2.08b0945d.chunk.js.map": "/HubAI/static/js/2.08b0945d.chunk.js.map",
     "index.html": "/HubAI/index.html",
-    "precache-manifest.b4f8544b6534a931250d29b380010ba9.js": "/HubAI/precache-manifest.b4f8544b6534a931250d29b380010ba9.js",
+    "precache-manifest.fe79af282083166c3f547f682cb02044.js": "/HubAI/precache-manifest.fe79af282083166c3f547f682cb02044.js",
     "service-worker.js": "/HubAI/service-worker.js",
     "static/css/main.6df99a29.chunk.css.map": "/HubAI/static/css/main.6df99a29.chunk.css.map",
     "static/js/2.08b0945d.chunk.js.LICENSE.txt": "/HubAI/static/js/2.08b0945d.chunk.js.LICENSE.txt",
@@ -35,6 +35,6 @@
     "static/js/runtime-main.5b2e6c1d.js",
     "static/js/2.08b0945d.chunk.js",
     "static/css/main.6df99a29.chunk.css",
-    "static/js/main.eebb85b5.chunk.js"
+    "static/js/main.68ea7c31.chunk.js"
   ]
 }

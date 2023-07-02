@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/HubAI/precache-manifest.b4f8544b6534a931250d29b380010ba9.js"
+  "/HubAI/precache-manifest.fe79af282083166c3f547f682cb02044.js"
 );
 
 self.addEventListener('message', (event) => {
