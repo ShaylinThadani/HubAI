@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "219ba76338981ed66dad167e71a981e9",
+    "revision": "c4f66c6f5654bc3abca8d7f922fb86d5",
     "url": "/HubAI/index.html"
   },
   {
-    "revision": "0c4c2695a3c3e11d086a",
+    "revision": "805b829c55dfcb351d14",
     "url": "/HubAI/static/css/main.6df99a29.chunk.css"
   },
   {
-    "revision": "ce4fddf16f86274df833",
-    "url": "/HubAI/static/js/2.08b0945d.chunk.js"
+    "revision": "cfb25e787a6cd7a1514a",
+    "url": "/HubAI/static/js/2.9a1dd8e9.chunk.js"
   },
   {
     "revision": "9b318b6fb13190fe82c0677e9264b3c7",
-    "url": "/HubAI/static/js/2.08b0945d.chunk.js.LICENSE.txt"
+    "url": "/HubAI/static/js/2.9a1dd8e9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0c4c2695a3c3e11d086a",
-    "url": "/HubAI/static/js/main.eebb85b5.chunk.js"
+    "revision": "805b829c55dfcb351d14",
+    "url": "/HubAI/static/js/main.16bf8802.chunk.js"
   },
   {
     "revision": "f4854526d5e4d93a297e",
